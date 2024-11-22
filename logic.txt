@@ -29,7 +29,7 @@ Constant cutting is more important than expected.
 Simple is best.
 Trust the programmer: trust saves a lot of costs.
 Do not optimize prematurely.
-Self-consistency is important: If there are two paths with self-consistency, they can fill in the blanks in the data.
+Self-consistency counts: If there are two paths with self-consistency, they can fill in the blanks in the data.
 
 
 
