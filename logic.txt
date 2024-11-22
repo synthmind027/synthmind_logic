@@ -21,6 +21,16 @@ In style, the block should look like a cluster.
 
 
 
+truth.wisdom:
+Perfection usually does not need to be reached: it is enough to simply deal with the problem when it arises
+In the end, there is no shortcut, and only hard work will be the solution.
+Constant cutting is more important than expected.
+Simple is best.
+Trust the programmer: trust saves a lot of costs.
+Do not optimize prematurely.
+
+
+
 
 
 truth.arithmetic
