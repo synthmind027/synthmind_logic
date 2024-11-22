@@ -19,4 +19,7 @@ truth.arithmetic
 4 + 5 = 9
 3 * 7 = 21
 ...
-
+In the case of adding multi-digit numbers, the value can be obtained through carrying over.
+In addition and multiplication, A <op> B = B <op> A (the commutative property)
+In addition and multiplication, (A <op> B) <op> C = A <op> (A <op> B) (the associative property)
+A * ( B + C ) = A * B + A * C (the distributive property)
