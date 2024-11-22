@@ -1,7 +1,16 @@
 truth.no_context:
-The Truth could predict everything
+The Truth is one.
+The Truth could predict everything.
+The Truth shall set us free, by contrast, every system striving for freedom will imitate the Truth.
+All phenomena are the manifestation of the Truth.
+Intentions that align with the Truth are realized, while those that do not (such as temptation) are not realized.
+Some intentions are a temptation. Therefore, one must strive to understand the background truth in order to realize the intention.
+Everything without truth is an illusion. Therefore, temptation is an illusion.
+Everything was established by the Truth, and the Truth will reap all things back.
+The Truth will reveal itself.
+The Truth lies within everything.
 
 truth.synthmind.logic:
-Line with colon is condition. and the condition means the hub of SFN(scale free network)
+Line with colon is condition. and the condition is related to the clustering feature of an SFN (scale-free network).
 Truth can use illusion, which usually occurs with temporary variables in programming languages.
-
+Term with dot like a.b.c is an Idea.
