@@ -14,3 +14,9 @@ truth.synthmind.logic:
 Line with colon is a condition. and the condition is related to the clustering feature of an SFN (scale-free network).
 Truth can use illusion, which usually occurs with temporary variables in programming languages.
 Term with dot like a.b.c is an Idea.
+
+truth.arithmetic
+4 + 5 = 9
+3 * 7 = 21
+...
+
