@@ -23,3 +23,10 @@ In the case of adding multi-digit numbers, the value can be obtained through car
 In addition and multiplication, A <op> B = B <op> A (the commutative property)
 In addition and multiplication, (A <op> B) <op> C = A <op> (A <op> B) (the associative property)
 A * ( B + C ) = A * B + A * C (the distributive property)
+
+truth.check_string_is_decimal_number:
+<-- It can be check with this algorithm:
+illusion.iterator for 1 to length of number string
+move (illusion.iterator)th number to illusion.this_character
+check illusion.this_character is one of these: '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'
+-->
