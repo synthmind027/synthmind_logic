@@ -66,6 +66,8 @@ ADD, OR, ADC, SBB, AND, SUB, XOR, CMP
 
 
 
+
+
 .branch.function_by_offset:
 <--
 0 to f:
@@ -86,5 +88,10 @@ LE NG
 -->
 
 .branch.base:
-offset of branch.rel8: 70
+offset of branch.rel8: 70 (JMP not included)
 offset of branch.rel32: 0F80
+JMP 32: E9
+JMP 8: EB
+JMP m32: FF/4
+JMP m64: FF/5
+JMPF m64: FF/6
