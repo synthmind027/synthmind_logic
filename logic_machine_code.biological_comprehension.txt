@@ -64,6 +64,10 @@ m8:r8, m64:r64, r8:m8, r64:m64, AL:imm8, AX:imm32, none, none
 ADD, OR, ADC, SBB, AND, SUB, XOR, CMP
 -->
 
+.arith.imms:
+80/0: m8:imm8
+81/0: m64:imm32
+83/0: r64:imm8
 
 
 
